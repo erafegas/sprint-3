@@ -86,7 +86,7 @@ function cleanCart() {
 
 // Exercise 3
 function calculateTotal() {
-  let total = 0;
+
   let x;
 
   for (x=0; x < cartList.length; x++) {
